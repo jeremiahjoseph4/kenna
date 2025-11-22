@@ -1,8 +1,8 @@
 // Milki's photo data – REPLACE THESE URLs WITH ACTUAL PHOTOS OF MILKI
 const photos = [
   { url: "milki1.jpg", caption: "Milki's Radiant Smile" },
-  { url: "milki2.jpg", caption: "Adventures with Milki" },
-  { url: "milki3.jpg", caption: "Milki's Thoughtful Moments" },
+  { url: "milki3.jpg", caption: "Adventures with Milki" },
+  { url: "milki2.jpg", caption: "Milki's Thoughtful Moments" },
   { url: "milki4.jpg", caption: "Milki's Confidence" },
   { url: "milki5.jpg", caption: "Milki's Grace" },
   { url: "milki6.jpg", caption: "Milki's Energy" }
