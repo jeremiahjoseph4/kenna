@@ -1,11 +1,11 @@
 // Milki's photo data – REPLACE THESE URLs WITH ACTUAL PHOTOS OF MILKI
 const photos = [
-  { url: "https://images.unsplash.com/photo-1544005313-94ddf0286df2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600", caption: "Milki's Radiant Smile" },
-  { url: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?ixlib=rb-4.0.3&auto=format&fit=crop&w=600", caption: "Adventures with Milki" },
-  { url: "https://images.unsplash.com/photo-1517841905240-472988babdf9?ixlib=rb-4.0.3&auto=format&fit=crop&w=600", caption: "Milki's Thoughtful Moments" },
-  { url: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=600", caption: "Milki's Confidence" },
-  { url: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=600", caption: "Milki's Grace" },
-  { url: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=600", caption: "Milki's Energy" }
+  { url: "milki1.jpg", caption: "Milki's Radiant Smile" },
+  { url: "milki2.jpg", caption: "Adventures with Milki" },
+  { url: "milki3.jpg", caption: "Milki's Thoughtful Moments" },
+  { url: "milki4.jpg", caption: "Milki's Confidence" },
+  { url: "milki5.jpg", caption: "Milki's Grace" },
+  { url: "milki6.jpg", caption: "Milki's Energy" }
 ];
 
 // Create gallery
